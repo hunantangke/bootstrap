@@ -1,21 +1,2 @@
-body { 
-	font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei UI", "Microsoft YaHei", SimHei, "\5B8B\4F53", simsun, sans-serif;
-}
-.logo {
-	padding: 0;
-}
-
-#navbar-collapse ul {
-	margin-top: 0;
-}
-.jumbotron {
-	background: url(../images/bg.jpg);
-	margin: 50px 0 0 0;
-	color: #ccc;
-}
-.footer {
-	text-align: center;
-	padding: 20px;
-	background: #666;
-	color: #eee;
-}
+body{font-family:"Helvetica Neue",Helvetica,Arial,"Microsoft Yahei UI","Microsoft YaHei",SimHei,"\5B8B\4F53",simsun,sans-serif}.logo{padding:0}#navbar-collapse ul{margin-top:0}.jumbotron{background:url(../images/bg.jpg);margin:50px 0 0;color:#ccc}.footer{text-align:center;padding:20px;background:#666;color:#eee}
+/*# sourceMappingURL=base.css.map */
